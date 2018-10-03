@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArbolFamiliar</string>
+    <array name="parentesco">
+        <item>madre</item>
+        <item>padre</item>
+        <item>hermano(a)</item>
+    </array>
+</resources>
